@@ -1,0 +1,164 @@
+﻿  alter.c
+  analyze.c
+  attach.c
+  auth.c
+  backup.c
+  bitvec.c
+  btmutex.c
+  btree.c
+  build.c
+  callback.c
+  complete.c
+  ctime.c
+  date.c
+  dbpage.c
+  dbstat.c
+  delete.c
+  expr.c
+  fault.c
+  fkey.c
+  fts3.c
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\tsrc\fts3.c(1155,18): warning C4244: “=”: 从“sqlite3_int64”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  fts3_aux.c
+  fts3_expr.c
+  fts3_hash.c
+  fts3_icu.c
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\icu4c-76_1-Win64-MSVC2022\include\unicode\uloc.h(708,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\icu4c-76_1-Win64-MSVC2022\include\unicode\stringoptions.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\icu4c-76_1-Win64-MSVC2022\include\unicode\uchar.h(3179,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\icu4c-76_1-Win64-MSVC2022\include\unicode\uset.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\tsrc\fts3_icu.c(61,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\tsrc\fts3_icu.c(117,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  fts3_porter.c
+  fts3_snippet.c
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\tsrc\fts3_snippet.c(143,66): warning C4244: “=”: 从“__int64”转换到“u32”，可能丢失数据
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\tsrc\fts3_snippet.c(394,30): warning C4244: “=”: 从“i64”转换到“int”，可能丢失数据
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\tsrc\fts3_snippet.c(624,26): warning C4244: “=”: 从“sqlite3_int64”转换到“int”，可能丢失数据
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\tsrc\fts3_snippet.c(1701,38): warning C4244: “=”: 从“i64”转换到“int”，可能丢失数据
+  fts3_tokenizer.c
+  fts3_tokenizer1.c
+  fts3_tokenize_vtab.c
+  fts3_unicode.c
+  fts3_unicode2.c
+  fts3_write.c
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\tsrc\fts3_write.c(1411,31): warning C4244: “=”: 从“i64”转换到“int”，可能丢失数据
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\tsrc\fts3_write.c(2338,26): warning C4244: “=”: 从“i64”转换到“int”，可能丢失数据
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\tsrc\fts3_write.c(2672,1): warning C4244: “初始化”: 从“i64”转换到“int”，可能丢失数据
+  fts5.c
+fts5_config.c(329,33): warning C4244: “=”: 从“sqlite3_int64”转换到“int”，可能丢失数据
+fts5_expr.c(233,27): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+fts5_expr.c(245,27): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+fts5_index.c(1835,1): warning C4244: “初始化”: 从“i64”转换到“int”，可能丢失数据
+fts5_index.c(1909,32): warning C4244: “=”: 从“i64”转换到“int”，可能丢失数据
+fts5_index.c(2060,61): warning C4244: “=”: 从“i64”转换到“int”，可能丢失数据
+fts5_index.c(2020,1): warning C4244: “初始化”: 从“i64”转换到“int”，可能丢失数据
+fts5_index.c(2153,30): warning C4244: “=”: 从“i64”转换到“int”，可能丢失数据
+fts5_index.c(2182,28): warning C4244: “=”: 从“i64”转换到“int”，可能丢失数据
+fts5_index.c(2263,42): warning C4244: “=”: 从“i64”转换到“int”，可能丢失数据
+fts5_index.c(2604,46): warning C4244: “=”: 从“i64”转换到“int”，可能丢失数据
+fts5_index.c(3412,23): warning C4244: “=”: 从“i64”转换到“int”，可能丢失数据
+fts5_index.c(3542,1): warning C4244: “初始化”: 从“i64”转换到“int”，可能丢失数据
+fts5_index.c(3664,38): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+fts5_index.c(3667,9): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+fts5_index.c(3784,48): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+fts5_index.c(4892,1): warning C4244: “初始化”: 从“i64”转换到“int”，可能丢失数据
+fts5_index.c(5275,48): warning C4244: “=”: 从“i64”转换到“int”，可能丢失数据
+fts5_index.c(6469,43): warning C4244: “+=”: 从“i64”转换到“int”，可能丢失数据
+fts5_index.c(6470,1): warning C4244: “初始化”: 从“i64”转换到“int”，可能丢失数据
+fts5_index.c(6471,1): warning C4244: “初始化”: 从“i64”转换到“int”，可能丢失数据
+fts5_main.c(876,43): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+fts5_tokenize.c(477,42): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+fts5_tokenize.c(484,44): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+fts5_tokenize.c(534,40): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+fts5_tokenize.c(538,43): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+fts5_tokenize.c(1365,53): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+fts5_tokenize.c(1387,48): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+fts5_tokenize.c(1397,41): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+  func.c
+  global.c
+  hash.c
+  icu.c
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\icu4c-76_1-Win64-MSVC2022\include\unicode\stringoptions.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\icu4c-76_1-Win64-MSVC2022\include\unicode\uchar.h(3179,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\icu4c-76_1-Win64-MSVC2022\include\unicode\uset.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\icu4c-76_1-Win64-MSVC2022\include\unicode\uloc.h(708,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  insert.c
+  json.c
+  legacy.c
+  正在生成代码...
+  正在编译...
+  loadext.c
+  main.c
+  malloc.c
+  mem0.c
+  mem1.c
+  mem2.c
+  mem3.c
+  mem5.c
+  memdb.c
+  memjournal.c
+  mutex.c
+  mutex_noop.c
+  mutex_unix.c
+  mutex_w32.c
+  notify.c
+  opcodes.c
+  os.c
+  os_kv.c
+  os_unix.c
+  os_win.c
+  正在生成代码...
+  正在编译...
+  pager.c
+  parse.c
+  pcache.c
+  pcache1.c
+  pragma.c
+  prepare.c
+  printf.c
+  random.c
+  resolve.c
+  rowset.c
+  rtree.c
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\tsrc\rtree.c(2126,65): warning C4244: “=”: 从“i64”转换到“RtreeDValue”，可能丢失数据
+C:\Users\aixia\Downloads\sqlite-version-3.49.0\tsrc\rtree.c(4379,25): warning C4244: “=”: 从“sqlite3_int64”转换到“u32”，可能丢失数据
+  select.c
+  sqlite3rbu.c
+  sqlite3session.c
+  status.c
+  stmt.c
+  table.c
+  threads.c
+  tokenize.c
+  treeview.c
+  正在生成代码...
+  正在编译...
+  trigger.c
+  update.c
+  upsert.c
+  utf.c
+  util.c
+  vacuum.c
+  vdbe.c
+  vdbeapi.c
+  vdbeaux.c
+  vdbeblob.c
+  vdbemem.c
+  vdbesort.c
+  vdbetrace.c
+  vdbevtab.c
+  vtab.c
+  wal.c
+  walker.c
+  where.c
+  wherecode.c
+  whereexpr.c
+  正在生成代码...
+  正在编译...
+  window.c
+  正在生成代码...
+  LINK : 没有找到 C:\Users\aixia\Downloads\sqlite-version-3.49.0\sqlite3_std\x64\Debug\sqlite3_dll.dll 或上一个增量链接没有生成它；正在执行完全链接
+    正在创建库 C:\Users\aixia\Downloads\sqlite-version-3.49.0\sqlite3_std\x64\Debug\sqlite3_dll.lib 和对象 C:\Users\aixia\Downloads\sqlite-version-3.49.0\sqlite3_std\x64\Debug\sqlite3_dll.exp
+  sqlite3_dll.vcxproj -> C:\Users\aixia\Downloads\sqlite-version-3.49.0\sqlite3_std\x64\Debug\sqlite3_dll.dll
